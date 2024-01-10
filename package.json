@@ -1,0 +1,21 @@
+{
+  "name": "solit-ui-test",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/meta": "^0.29.2",
+    "@solidjs/router": "^0.10.7",
+    "@solidjs/start": "^0.4.5",
+    "debug": "~4.3.4",
+    "ddbbgg": "npm:debug@~4.3.4",
+    "solid-js": "^1.8.9",
+    "vinxi": "0.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
